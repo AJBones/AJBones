@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alexander Bones.
 - 👀 I’m interested in writing projects in my (very limited) free time for data analysis and visualisation. 
-- 🌱 I’m currently learning Python and R for my PhD research.
-- 📫 How to reach me - send me an email at alexander.bones@plants.ox.ac.uk
+- 🌱 Aiming to improve my Python and R skills.
+- 📫 How to reach me - send me an email at alexbones41@gmail.com
 -  Find me on LinkedIn at www.linkedin.com/in/alexander-bones-bb7b9b121
 
 <!---
